@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFC0CB"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/banana_header"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="160dp"/>
+
+    <TextView
+        android:id="@+id/banana_title"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="40dp"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:textColor="#912BD5"
+        android:layout_below="@+id/banana_header"/>
+
+    <ImageView
+        android:id="@+id/banana"
+        android:layout_width="400dp"
+        android:layout_height="200dp"
+        android:src="@drawable/background_banana"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="40dp"/>
+
+    <TextView
+        android:id="@+id/banana_sentence"
+        android:layout_width="600dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_below="@+id/banana"
+        android:layout_marginTop="80dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="#000000"/>
+
+
+</RelativeLayout>

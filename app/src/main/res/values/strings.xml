@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LearnFruits</string>
+    <string name="apple_name_en">Apple</string>
+    <string name="apple_description_en">An apple a day keeps the doctor away</string>
+    <string name="watermelon_name_en">Watermelon</string>
+    <string name="watermelon_description_en">The watermelon is round and plump, like a basketball. The skin is black and green and sweet</string>
+    <string name="banana_name_en">Banana</string>
+    <string name="banana_description_en">Yellow bananas curved, like a crescent</string>
+    <string name="cherry_name_en">Cherry</string>
+    <string name="cherry_description_en">The big red cherry is like pearl agate crystal clear, the taste is very sweet</string>
+    <string name="grape_name_en">Grapes</string>
+    <string name="grape_description_en">A bunch of ripe grapes hung among the green leaves like purple gems</string>
+    <string name="pineapple_name_en">Pineapple</string>
+    <string name="pineapple_description_en">The pineapple has a small green straw hat on top and a bright yellow hard coat</string>
+    <string name="pear_name_en">Pear</string>
+    <string name="pear_description_en">Pears are shaped like little yellow gourds</string>
+
+
+    <string name="apple_name_ch">苹果</string>
+    <string name="apple_description_ch">一天一苹果，医生远离我</string>
+    <string name="watermelon_name_ch">西瓜</string>
+    <string name="watermelon_description_ch">西瓜圆鼓鼓的，像一个篮球。表皮黑绿相间，甜甜的</string>
+    <string name="banana_name_ch">香蕉</string>
+    <string name="banana_description_ch">黄黄的香蕉弯弯的，像一个月牙</string>
+    <string name="cherry_name_ch">樱桃</string>
+    <string name="cherry_description_ch">大红樱桃像珍珠玛瑙晶莹剔透，味道很甜</string>
+    <string name="grape_name_ch">葡萄</string>
+    <string name="grape_description_ch">一串熟透的葡萄像紫宝石一样挂在绿叶间</string>
+    <string name="pineapple_name_ch">菠萝</string>
+    <string name="pineapple_description_ch">菠萝头顶带着一个绿色的小草帽,身上披着亮黄色的、坚硬的外衣</string>
+    <string name="pear_name_ch">梨</string>
+    <string name="pear_description_ch">梨的形状像一个个黄澄澄的小葫芦</string>
+
+</resources>
