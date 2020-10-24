@@ -12,9 +12,10 @@ import java.util.List;
 
 public class FruitAdapter extends ArrayAdapter<fruit> {
     private int resourceID;
+
     public FruitAdapter(Context context, int textViewResourceID, List<fruit> objects) {
         super(context, textViewResourceID, objects);
-        resourceID=textViewResourceID;
+        resourceID = textViewResourceID;
     }
 
     @Override

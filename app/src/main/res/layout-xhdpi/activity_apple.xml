@@ -7,13 +7,6 @@
     tools:context=".AppleActivity"
     android:background="#FFC0CB">
 
-    <ImageView
-        android:id="@+id/apple_header"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_marginTop="40dp"
-        android:layout_centerHorizontal="true"/>
-
     <TextView
         android:id="@+id/apple_title"
         android:layout_width="match_parent"
